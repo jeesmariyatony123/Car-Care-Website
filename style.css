@@ -98,7 +98,7 @@
 
 #reviews .card {
     height: auto;
-    width: 20vw;
+    /* width: 20vw; */
     margin: 0 1em;
     border: none;
     border-radius: 0;
