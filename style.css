@@ -197,8 +197,7 @@ footer li {
     }
 
     .homepage .form {
-        width: 65vw;
-        text-align: center;
+        width: 100%;
     }
 
     .welcome {
