@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* overflow-x: hidden; */
+
+}
+
+.homepage {
+    background: url(./task-files/banner1.jpg);
+
+    width: 100%;
+    height: 95vh;
+    background-position: center;
+    background-size: cover;
+}
+
+
+.homepage .row {
+    height: 95vh;
+    background-color: rgba(37, 37, 37, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.homepage .form {
+    width: 35vw;
+}
