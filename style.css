@@ -28,3 +28,17 @@
 .homepage .form {
     width: 35vw;
 }
+
+.video {
+    background: url(./task-files/video.jpg);
+
+    width: 80%;
+    height: 60vh;
+    background-position: center;
+    background-size: cover;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    margin-left: 10%;
+    border-radius: 20px;
+}
